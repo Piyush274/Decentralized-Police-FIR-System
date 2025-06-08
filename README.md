@@ -2,7 +2,7 @@
 
 A blockchain-based application that modernizes the process of lodging and managing First Information Reports (FIRs) in India. This system provides an immutable, transparent, and decentralized infrastructure for citizens and law enforcement authorities, leveraging Web3 technologies for a trustless and secure experience.
 
-🔗 **Live Application:** [decentralized-police-fir-system.vercel.app](https://decentralized-police-fir-system.vercel.app/)
+🔗 **Live Application:** → https://digitalfir.vercel.app
 
 ---
 
